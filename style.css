@@ -2,14 +2,14 @@ body {
   font-family: 'Courier New', Courier, monospace;
   font-size: 20px;
   text-align: center;
-  background-color: rgb(194, 240, 248);
+  background-color: blue;
 }
 
 .container-nav {
   display: flex;
   padding: 10px;
   height: 50px;
-  background-color: black;
+  background-color: red;
 }
 
 
